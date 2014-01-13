@@ -1,8 +1,12 @@
-package com.org.tang;
+package com.org.tang.activity;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.text.ParseException;
+
+import com.org.tang.R;
+import com.org.tang.R.id;
+import com.org.tang.R.layout;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -31,6 +35,7 @@ public class TestActivity extends Activity {
 
 	    @Override
 	    public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+		// TODO Auto-generated method stub
 
 	    }
 
