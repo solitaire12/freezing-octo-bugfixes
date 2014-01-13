@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="gray">#bbbbbb</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="red">#ff0000</color>
+    <color name="home_text_color">#8d7a7a</color>
+    <color name="active_product_column_color">#a39690</color>
+    <color name="active_product_price_color">#666666</color>
+    <color name="active_product_text_color">#a39690</color>
+ 
+    <color name="vip_login_text_color">#333333</color>
+    <color name="price_color">#f73334</color>
+    <color name="item_press">#3186A5</color>
+ 
+
+</resources>
