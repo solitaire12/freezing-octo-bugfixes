@@ -112,7 +112,7 @@
     <string name="location_addr">地址：</string>
     <string name="location_status">状态：</string>
     <string name="location_acc">精确度：</string>
-    <string name="app_name">中央商场</string>
+    <string name="app_name">中央商场0.0.1</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="load_more_information">努力加载中</string>
